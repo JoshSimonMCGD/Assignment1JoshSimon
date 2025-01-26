@@ -1,7 +1,10 @@
 ﻿// Josh Simon Assignment 1
 // Good luck in the graveyard.
 
-// Introduction to the player.
+// Introduction to the player. The player is in a graveyard and is given options of how to proceed.
+// There is an obvious boss who is almost always an option to fight. 
+// The player needs a power lvl of over 9000 to beat the boss.
+
 Console.WriteLine("You awaken in a graveyard under a large dead tree.");
 Console.WriteLine();
 
