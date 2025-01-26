@@ -1,0 +1,14 @@
+/Users/owner/RiderProjects/Assignment1JoshSimon/bin/Debug/net9.0/Assignment1JoshSimon
+/Users/owner/RiderProjects/Assignment1JoshSimon/bin/Debug/net9.0/Assignment1JoshSimon.deps.json
+/Users/owner/RiderProjects/Assignment1JoshSimon/bin/Debug/net9.0/Assignment1JoshSimon.runtimeconfig.json
+/Users/owner/RiderProjects/Assignment1JoshSimon/bin/Debug/net9.0/Assignment1JoshSimon.dll
+/Users/owner/RiderProjects/Assignment1JoshSimon/bin/Debug/net9.0/Assignment1JoshSimon.pdb
+/Users/owner/RiderProjects/Assignment1JoshSimon/obj/Debug/net9.0/Assignment1JoshSimon.GeneratedMSBuildEditorConfig.editorconfig
+/Users/owner/RiderProjects/Assignment1JoshSimon/obj/Debug/net9.0/Assignment1JoshSimon.AssemblyInfoInputs.cache
+/Users/owner/RiderProjects/Assignment1JoshSimon/obj/Debug/net9.0/Assignment1JoshSimon.AssemblyInfo.cs
+/Users/owner/RiderProjects/Assignment1JoshSimon/obj/Debug/net9.0/Assignment1JoshSimon.csproj.CoreCompileInputs.cache
+/Users/owner/RiderProjects/Assignment1JoshSimon/obj/Debug/net9.0/Assignment1JoshSimon.dll
+/Users/owner/RiderProjects/Assignment1JoshSimon/obj/Debug/net9.0/refint/Assignment1JoshSimon.dll
+/Users/owner/RiderProjects/Assignment1JoshSimon/obj/Debug/net9.0/Assignment1JoshSimon.pdb
+/Users/owner/RiderProjects/Assignment1JoshSimon/obj/Debug/net9.0/Assignment1JoshSimon.genruntimeconfig.cache
+/Users/owner/RiderProjects/Assignment1JoshSimon/obj/Debug/net9.0/ref/Assignment1JoshSimon.dll
