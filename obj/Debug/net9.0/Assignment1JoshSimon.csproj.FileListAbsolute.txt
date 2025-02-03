@@ -12,3 +12,4 @@
 /Users/owner/RiderProjects/Assignment1JoshSimon/obj/Debug/net9.0/Assignment1JoshSimon.pdb
 /Users/owner/RiderProjects/Assignment1JoshSimon/obj/Debug/net9.0/Assignment1JoshSimon.genruntimeconfig.cache
 /Users/owner/RiderProjects/Assignment1JoshSimon/obj/Debug/net9.0/ref/Assignment1JoshSimon.dll
+/Users/owner/RiderProjects/Assignment1JoshSimon/obj/Debug/net9.0/Assignment1JoshSimon.sourcelink.json
